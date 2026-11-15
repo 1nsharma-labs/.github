@@ -17,6 +17,7 @@
 
 | Product | Description | Primary Value | Live Interactive Demo | Status |
 | :--- | :--- | :--- | :--- | :--- |
+| [**🚀 AgentHub**](https://github.com/1nsharma-labs/agenthub) | The GitHub of AI Agents & Package Manager | Discover, 1-click fork & execute autonomous AI agents and virtual coworkers (Mowglai & Hive) | [**Live Agent Directory**](https://1nsharma-labs.github.io/agenthub/) | **v1.0.0 (Live)** |
 | [**⚡ VramArmor**](https://github.com/1nsharma-labs/vramarmor) | Local AI Model VRAM & GPU Optimizer | Predicts memory fit, prevents CUDA OOM crashes & offloads idle Ollama models for Claude/Cursor | [**Live VRAM Calculator**](https://1nsharma-labs.github.io/vramarmor/) | **v1.0.0 (Live)** |
 | [**🐝 HiveMesh**](https://github.com/1nsharma-labs/hivemesh) | Multi-Agent Workspace Orchestration Mesh | Decentralized event blackboard, causal task DAGs & autonomous swarm coordination for Claude/Cursor | [**Live Swarm Dashboard**](https://1nsharma-labs.github.io/hivemesh/) | **v1.0.0 (Live)** |
 | [**🛡️ DevDaemon**](https://github.com/1nsharma-labs/devdaemon) | Terminal Error Interceptor & Workspace Healer | Sub-2ms error classifier, instant zombie port killer & 1-line shell auto-fixes for Claude/Cursor | [**Live Terminal Healer**](https://1nsharma-labs.github.io/devdaemon/) | **v1.0.0 (Live)** |
@@ -37,6 +38,7 @@
 
 Beyond core infrastructure security and FinOps, check out the foundational systems built by Amit Sharma:
 
+* [**1nsharma/mowglai**](https://github.com/1nsharma/mowglai) — **AI Company OS & Virtual Coworkers:** Autonomous multi-agent organization running executive, product, and QA pipelines without human intervention.
 * [**1nsharma/SLASH**](https://github.com/1nsharma/SLASH) — **Unified System & Scrap-to-Business Architecture OS:** Turns URLs, repositories, and digital networks into one unified real-time intelligence graph.
 * [**1nsharma/Urlmind**](https://github.com/1nsharma/Urlmind) — **Universal Web Intelligence Engine:** Understand any website, API surface, or digital footprint from a single URL with zero friction.
 * [**1nsharma/Hive**](https://github.com/1nsharma/Hive) — **17-Agent Virtual Office & Workspace OS:** Autonomous multi-agent coordination system orchestrating business logic and workflows.

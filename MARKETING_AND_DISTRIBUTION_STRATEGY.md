@@ -8,6 +8,7 @@ This master playbook details the distribution tactics, community engagement blue
 
 | Tool | Primary ICP | Competitor Pricing Replaced | Free Alternative Hook |
 | :--- | :--- | :--- | :--- |
+| **AgentHub** | AI Builders, Autonomous Agent Teams | Hugging Face / LangSmith ($500/mo) | The GitHub of AI Agents: 1-click forking, zero-dependency registry & MCP server |
 | **VramArmor** | Local AI Engineers, DeepSeek/Llama Users | Run:ai ($1,000/mo), Anyscale | Pre-flight VRAM fit calculator, CUDA OOM protection & Ollama memory offloader |
 | **HiveMesh** | AI Teams, Swarm Researchers | CrewAI Enterprise ($500/mo), AutoGen | Zero-dependency multi-agent workspace mesh & blackboard with MCP |
 | **DevDaemon** | All Developers, Terminal Users | Warp AI ($20/mo), Fig | Sub-2ms error classifier, instant zombie port killer & 1-line shell fixes |
