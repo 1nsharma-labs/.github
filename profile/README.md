@@ -17,6 +17,7 @@
 
 | Product | Description | Primary Value | Live Interactive Demo | Status |
 | :--- | :--- | :--- | :--- | :--- |
+| [**🇮🇳 AMIX**](https://github.com/1nsharma-labs/amix) | Sovereign Indian AI Architecture & 12-Agent Fleet | 5-stage progression from AI to Super Intelligence (SI) with smart routing, 12 cognitive nodes & Indic-Bench | [**Live Fleet Simulator**](https://1nsharma-labs.github.io/amix/) | **v1.0.0 (Live)** |
 | [**🚀 AgentHub**](https://github.com/1nsharma-labs/agenthub) | The GitHub of AI Agents & Package Manager | Discover, 1-click fork & execute autonomous AI agents and virtual coworkers (Mowglai & Hive) | [**Live Agent Directory**](https://1nsharma-labs.github.io/agenthub/) | **v1.0.0 (Live)** |
 | [**⚡ VramArmor**](https://github.com/1nsharma-labs/vramarmor) | Local AI Model VRAM & GPU Optimizer | Predicts memory fit, prevents CUDA OOM crashes & offloads idle Ollama models for Claude/Cursor | [**Live VRAM Calculator**](https://1nsharma-labs.github.io/vramarmor/) | **v1.0.0 (Live)** |
 | [**🐝 HiveMesh**](https://github.com/1nsharma-labs/hivemesh) | Multi-Agent Workspace Orchestration Mesh | Decentralized event blackboard, causal task DAGs & autonomous swarm coordination for Claude/Cursor | [**Live Swarm Dashboard**](https://1nsharma-labs.github.io/hivemesh/) | **v1.0.0 (Live)** |
