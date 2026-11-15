@@ -17,6 +17,7 @@
 
 | Product | Description | Primary Value | Live Interactive Demo | Status |
 | :--- | :--- | :--- | :--- | :--- |
+| [**🌐 Polyglot-OS**](https://github.com/1nsharma-labs/polyglot-os) | 50+ Programming Languages Matrix & Transpiler | Zero-token syntax patterns, runtime specs & memory models across 50+ languages | [**Live Polyglot Matrix**](https://1nsharma-labs.github.io/polyglot-os/) | **v1.0.0 (Live)** |
 | [**💼 Agency-OS**](https://github.com/1nsharma-labs/agency-os) | Open-Source Agency & Freelancer Business OS | Scope proposals, milestone Kanban, 18% GST tax invoices & direct UPI settlement | [**Live Client Portal**](https://1nsharma-labs.github.io/agency-os/) | **v1.0.0 (Live)** |
 | [**🍽️ Restaurant-OS**](https://github.com/1nsharma-labs/restaurant-os) | Open-Source Restaurant & Cloud Kitchen OS | 0% commission QR menu, live KDS, 5% GST billing & direct UPI settlement | [**Live Restaurant Demo**](https://1nsharma-labs.github.io/restaurant-os/) | **v1.0.0 (Live)** |
 | [**🌐 1nsharma-OS**](https://github.com/1nsharma-labs/1nsharma-os) | Universal Topic-to-App & Interactive Skill Engine | Compiles any subject into an interactive web simulator (.io) and mobile APK with zero-login labs | [**Live Universal Lab**](https://1nsharma-labs.github.io/1nsharma-os/) | **v1.0.0 (Live)** |
