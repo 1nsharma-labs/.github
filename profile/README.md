@@ -17,6 +17,8 @@
 
 | Product | Description | Primary Value | Live Interactive Demo | Status |
 | :--- | :--- | :--- | :--- | :--- |
+| [**🤖 DroidArmor**](https://github.com/1nsharma-labs/droidarmor) | Autonomous AI Mobile Agent & Fast ADB Automation | Natural language Android control, self-healing test runner, zero-latency ADB tap/type & MCP server | [**Live Phone Simulator**](https://1nsharma-labs.github.io/droidarmor/) | **v1.0.0 (Live)** |
+| [**🗺️ SlashGraph**](https://github.com/1nsharma-labs/slashgraph) | Codebase & System Architecture Intelligence Graph | Zero-token AST routes & schema mapper + Urlmind web intelligence for Claude Desktop & Cursor | [**Live Graph Visualizer**](https://1nsharma-labs.github.io/slashgraph/) | **v1.0.0 (Live)** |
 | [**🔮 OmniMCP**](https://github.com/1nsharma-labs/omnimcp) | Universal MCP Hub & Autonomous Agent Workspace | Mobile ADB automation, desktop telemetry, workspace tokens & SQLite memory mesh for Claude/Cursor | [**Live MCP Playground**](https://1nsharma-labs.github.io/omnimcp/) | **v1.0.0 (Live)** |
 | [**🛡️ PromptArmor**](https://github.com/1nsharma-labs/promptarmor) | Sub-2ms Prompt Injection & Jailbreak Firewall | Zero-dependency local guardrail blocking DAN personas, system prompt leaks & steganography | [**Live In-Browser Demo**](https://1nsharma-labs.github.io/promptarmor/) | **v1.0.0 (Live)** |
 | [**🛡️ TokenArmor**](https://github.com/1nsharma-labs/tokenarmor) | AI Gateway & Token FinOps Firewall | Slashes LLM API bills via sub-5ms exact caching, Prometheus /metrics, hard budget limits, and PII masking | [**Live Dashboard Demo**](https://1nsharma-labs.github.io/tokenarmor/) | **v1.2.0 (Live)** |
