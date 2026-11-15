@@ -17,6 +17,7 @@
 
 | Product | Description | Primary Value | Live Interactive Demo | Status |
 | :--- | :--- | :--- | :--- | :--- |
+| [**🔮 OmniMCP**](https://github.com/1nsharma-labs/omnimcp) | Universal MCP Hub & Autonomous Agent Workspace | Mobile ADB automation, desktop telemetry, workspace tokens & SQLite memory mesh for Claude/Cursor | [**Live MCP Playground**](https://1nsharma-labs.github.io/omnimcp/) | **v1.0.0 (Live)** |
 | [**🛡️ TokenArmor**](https://github.com/1nsharma-labs/tokenarmor) | AI Gateway & Token FinOps Firewall | Slashes LLM API bills via sub-5ms exact caching, Prometheus /metrics, hard budget limits, and PII masking | [**Live Dashboard Demo**](https://1nsharma-labs.github.io/tokenarmor/) | **v1.2.0 (Live)** |
 | [**🍃 CloudPrune**](https://github.com/1nsharma-labs/cloudprune) | Cloud Waste & Zombie Resource Killer | Scans AWS & GCP for unattached EBS disks, unassociated IPs & stopped EC2s | [**Live FinOps Report**](https://1nsharma-labs.github.io/cloudprune/) | **v1.0.0 (Live)** |
 | [**🔒 CompliGuard**](https://github.com/1nsharma-labs/compliguard) | Continuous SOC 2 & ISO 27001 Evidence Engine | Automates Policy-as-Code checks across cloud & Git for $0 instead of $25k/yr SaaS | [**Live SOC 2 Report**](https://1nsharma-labs.github.io/compliguard/) | **v1.0.0 (Live)** |
