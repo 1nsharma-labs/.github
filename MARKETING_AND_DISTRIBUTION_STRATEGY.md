@@ -1,0 +1,74 @@
+# 1nsharma-labs Distribution, Marketing & Revenue Playbook
+
+This master playbook details the distribution tactics, community engagement blueprints, and B2B enterprise acquisition funnels for the **1nsharma-labs** open-source software suite.
+
+---
+
+## 🏛️ The 1nsharma-labs Product Suite Overview
+
+| Tool | Primary ICP | Competitor Pricing Replaced | Free Alternative Hook |
+| :--- | :--- | :--- | :--- |
+| **TokenArmor** | AI Startups, LLM Developers | Portkey ($99/mo), Helicone ($50/mo) | Zero-dependency proxy with exact caching & local Ollama routing |
+| **KubePrune** | DevOps, SREs, Kubernetes Leads | Cast AI ($1,500/mo), Kubecost ($499/mo) | Instant CLI pod scanner & surgical patch generator |
+| **DriftArmor** | Cloud Architects, Terraform Users | Infracost ($250/mo), Firefly ($800/mo) | Zero-dependency pre-merge PR cost calculation & drift detector |
+| **CloudPrune** | AWS / GCP Engineers, CFOs | CloudHealth ($2,000/mo) | Zombie EBS disks, unassociated IPs, & stopped EC2 killer |
+| **CompliGuard** | Security Engineers, Founders | Vanta ($25,000/yr), Drata ($20,000/yr) | Free Policy-as-Code SOC 2 / ISO 27001 evidence ledger |
+| **SecretArmor** | Developers, AppSec Teams | GitGuardian ($400/mo) | Sub-10ms pre-commit hook blocking API keys locally |
+
+---
+
+## 🎯 Community Distribution Strategy (Anti-Spam Compliant)
+
+### 1. Reddit Infiltration Strategy
+*Rule of thumb on Reddit:* Never post raw promotional announcements. Always frame posts as **engineering problem-solving stories** with transparent code architecture and open-source links at the bottom.
+
+#### A. `r/selfhosted` (Target: TokenArmor & CloudPrune)
+- **Do NOT post standalone promotional links** (Rule 6 auto-removes).
+- **Post in the New Project Megathread:**
+  > "Built TokenArmor – an open-source AI gateway in pure Node.js (zero external dependencies) that caches identical prompts in <5ms ($0 token cost) and routes to local Ollama. 100% self-hosted on your own hardware."
+- **Alternative Standalone Educational Post:**
+  > Title: *How I reduced our self-hosted LLM latency and API bills using deterministic SHA-256 caching and local Ollama fallback*
+  > Content: Technical breakdown of prompt hashing, latency benchmarks, and SQLite persistent ledger. Include repo link at the very end.
+
+#### B. `r/kubernetes` & `r/devops` (Target: KubePrune)
+- **Title:** *We audited our EKS clusters and found 78% of requested vCPU was completely idle. Built an open-source right-sizing tool (KubePrune)*
+- **Content:** Detail how developers default to `cpu: 2` and `memory: 4Gi`, explain the 30% safety headroom formula to prevent OOMKilled crashes, and provide the zero-install `npx @1nsharma-labs/kubeprune scan` command.
+
+#### C. `r/Terraform` & `r/aws` (Target: DriftArmor)
+- **Title:** *Preventing CFO sticker shock: Estimating AWS monthly costs directly on Terraform Pull Requests before apply (DriftArmor)*
+- **Content:** Walk through how engineers accidentally upgrade RDS instances or provision NAT Gateways without knowing the cost delta. Share sample PR markdown comment.
+
+---
+
+## 🚀 Hacker News "Show HN" Launch Calendar
+
+| Day | Project | HN Title |
+| :--- | :--- | :--- |
+| **Tuesday 08:00 AM EST** | **TokenArmor** | *Show HN: TokenArmor – Zero-dependency AI gateway with exact prompt caching and Ollama routing* |
+| **Thursday 08:00 AM EST** | **KubePrune** | *Show HN: KubePrune – Find over-provisioned Kubernetes pods and generate right-sizing YAML patches* |
+| **Next Tuesday** | **DriftArmor** | *Show HN: DriftArmor – Calculate Terraform cost deltas on Pull Requests before terraform apply* |
+| **Next Thursday** | **CompliGuard** | *Show HN: CompliGuard – Open-source SOC 2 and ISO 27001 continuous evidence engine* |
+
+---
+
+## 💼 B2B Enterprise Monetization Model
+
+### The Open-Core Conversion Engine:
+1. **Developer Adoption (Bottom-Up):** Engineers install the free CLI via `npx` or Docker for instant personal productivity.
+2. **Executive Visibility:** The CLI generates a stunning, branded HTML executive report (`tokenarmor-report.html`, `kubeprune-report.html`, `driftarmor-report.html`) that the engineer emails or Slacks to their CTO / VP of Engineering.
+3. **Enterprise Conversion (Top-Down):** The CTO sees the report and wants:
+   - Automated continuous background daemons / Kubernetes operators
+   - Slack and MS Teams webhook alerting
+   - Pull request merge blocking (budget firewalls)
+   - SAML / Okta SSO and multi-tenant audit ledgers
+4. **License Purchase:** The enterprise buys a $149 - $699/month commercial license via **Polar.sh** or annual invoice.
+
+---
+
+## 🌟 Awesome-List PR Submissions
+
+Submit PRs to the following high-traffic GitHub repositories:
+* `awesome-selfhosted/awesome-selfhosted`: TokenArmor under AI & Proxy section.
+* `jnv/awesome-finops`: TokenArmor, CloudPrune, KubePrune, and DriftArmor under Cost Optimization.
+* `ramitsurana/awesome-kubernetes`: KubePrune under Cluster Optimization & FinOps.
+* `shieldfy/awesome-devsecops`: SecretArmor & CompliGuard under AppSec & Compliance.
