@@ -8,6 +8,8 @@ This master playbook details the distribution tactics, community engagement blue
 
 | Tool | Primary ICP | Competitor Pricing Replaced | Free Alternative Hook |
 | :--- | :--- | :--- | :--- |
+| **HiveMesh** | AI Teams, Swarm Researchers | CrewAI Enterprise ($500/mo), AutoGen | Zero-dependency multi-agent workspace mesh & blackboard with MCP |
+| **DevDaemon** | All Developers, Terminal Users | Warp AI ($20/mo), Fig | Sub-2ms error classifier, instant zombie port killer & 1-line shell fixes |
 | **DroidArmor** | Mobile Developers, QA, AI Agents | BrowserStack ($499/mo), Waldo ($799/mo) | Autonomous AI mobile agent & fast ADB self-healing test runner with MCP native server |
 | **SlashGraph** | AI Engineers, Cursor & Claude Users | CodeSee ($300/mo), Sourcegraph ($5,000/yr) | Zero-token AST routes & schema mapper + Urlmind web intelligence (< 600 tokens) |
 | **OmniMCP** | Autonomous AI Agents, Cursor Users | Claude Desktop Plugins ($50/mo) | Universal MCP Hub for Mobile ADB, Desktop telemetry, workspace tokens & SQLite memory |

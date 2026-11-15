@@ -17,6 +17,8 @@
 
 | Product | Description | Primary Value | Live Interactive Demo | Status |
 | :--- | :--- | :--- | :--- | :--- |
+| [**🐝 HiveMesh**](https://github.com/1nsharma-labs/hivemesh) | Multi-Agent Workspace Orchestration Mesh | Decentralized event blackboard, causal task DAGs & autonomous swarm coordination for Claude/Cursor | [**Live Swarm Dashboard**](https://1nsharma-labs.github.io/hivemesh/) | **v1.0.0 (Live)** |
+| [**🛡️ DevDaemon**](https://github.com/1nsharma-labs/devdaemon) | Terminal Error Interceptor & Workspace Healer | Sub-2ms error classifier, instant zombie port killer & 1-line shell auto-fixes for Claude/Cursor | [**Live Terminal Healer**](https://1nsharma-labs.github.io/devdaemon/) | **v1.0.0 (Live)** |
 | [**🤖 DroidArmor**](https://github.com/1nsharma-labs/droidarmor) | Autonomous AI Mobile Agent & Fast ADB Automation | Natural language Android control, self-healing test runner, zero-latency ADB tap/type & MCP server | [**Live Phone Simulator**](https://1nsharma-labs.github.io/droidarmor/) | **v1.0.0 (Live)** |
 | [**🗺️ SlashGraph**](https://github.com/1nsharma-labs/slashgraph) | Codebase & System Architecture Intelligence Graph | Zero-token AST routes & schema mapper + Urlmind web intelligence for Claude Desktop & Cursor | [**Live Graph Visualizer**](https://1nsharma-labs.github.io/slashgraph/) | **v1.0.0 (Live)** |
 | [**🔮 OmniMCP**](https://github.com/1nsharma-labs/omnimcp) | Universal MCP Hub & Autonomous Agent Workspace | Mobile ADB automation, desktop telemetry, workspace tokens & SQLite memory mesh for Claude/Cursor | [**Live MCP Playground**](https://1nsharma-labs.github.io/omnimcp/) | **v1.0.0 (Live)** |
