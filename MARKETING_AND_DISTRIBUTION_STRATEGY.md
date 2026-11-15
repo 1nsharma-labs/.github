@@ -61,7 +61,9 @@ This master playbook details the distribution tactics, community engagement blue
    - Slack and MS Teams webhook alerting
    - Pull request merge blocking (budget firewalls)
    - SAML / Okta SSO and multi-tenant audit ledgers
-4. **License Purchase:** The enterprise buys a $149 - $699/month commercial license via **Polar.sh** or annual invoice.
+4. **License Purchase:** The enterprise buys a $149 - $699/month commercial license via **Polar.sh**, direct bank invoice, or direct UPI (`6393741171@upi`).
+   - **Direct Contact:** `amitsharma9976@gmail.com`
+   - **Direct UPI / Bank:** `6393741171`
 
 ---
 

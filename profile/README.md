@@ -33,8 +33,10 @@ All 1nsharma-labs tools follow an **Open-Core** model:
 * **Enterprise Edition:** Licensed under **Business Source License 1.1 (BSL 1.1)** for organizations requiring automated daemons, SSO (SAML/Okta), continuous compliance portals, and dedicated SLA support.
 
 ### Contact & Enterprise Licensing
-* **Website:** [polar.sh/1nsharma-labs](https://polar.sh/1nsharma-labs)
-* **Email:** `enterprise@1nsharma-labs.com`
+* **Direct Personal Email:** [amitsharma9976@gmail.com](mailto:amitsharma9976@gmail.com)
+* **Founder & Lead:** **Amit Sharma** (@1nsharma)
+* **Direct UPI / GPay / PhonePe / Paytm:** `6393741171` (UPI ID: `6393741171@upi`)
+* **Global Sponsorship & Cards:** [polar.sh/1nsharma-labs](https://polar.sh/1nsharma-labs) &bull; [github.com/sponsors/1nsharma](https://github.com/sponsors/1nsharma)
 
 ---
 
