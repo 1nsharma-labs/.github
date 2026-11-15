@@ -17,6 +17,7 @@
 
 | Product | Description | Primary Value | Live Interactive Demo | Status |
 | :--- | :--- | :--- | :--- | :--- |
+| [**🎓 Course-OS**](https://github.com/1nsharma-labs/course-os) | Interactive Learning & Course Engine | Turn repos into in-browser code labs, invariant testing & verifiable digital certificates | [**Live Course Portal**](https://1nsharma-labs.github.io/course-os/) | **v1.0.0 (Live)** |
 | [**🌐 Polyglot-OS**](https://github.com/1nsharma-labs/polyglot-os) | 50+ Programming Languages Matrix & Transpiler | Zero-token syntax patterns, runtime specs & memory models across 50+ languages | [**Live Polyglot Matrix**](https://1nsharma-labs.github.io/polyglot-os/) | **v1.0.0 (Live)** |
 | [**💼 Agency-OS**](https://github.com/1nsharma-labs/agency-os) | Open-Source Agency & Freelancer Business OS | Scope proposals, milestone Kanban, 18% GST tax invoices & direct UPI settlement | [**Live Client Portal**](https://1nsharma-labs.github.io/agency-os/) | **v1.0.0 (Live)** |
 | [**🍽️ Restaurant-OS**](https://github.com/1nsharma-labs/restaurant-os) | Open-Source Restaurant & Cloud Kitchen OS | 0% commission QR menu, live KDS, 5% GST billing & direct UPI settlement | [**Live Restaurant Demo**](https://1nsharma-labs.github.io/restaurant-os/) | **v1.0.0 (Live)** |
