@@ -17,6 +17,7 @@
 
 | Product | Description | Primary Value | Live Interactive Demo | Status |
 | :--- | :--- | :--- | :--- | :--- |
+| [**⚡ VramArmor**](https://github.com/1nsharma-labs/vramarmor) | Local AI Model VRAM & GPU Optimizer | Predicts memory fit, prevents CUDA OOM crashes & offloads idle Ollama models for Claude/Cursor | [**Live VRAM Calculator**](https://1nsharma-labs.github.io/vramarmor/) | **v1.0.0 (Live)** |
 | [**🐝 HiveMesh**](https://github.com/1nsharma-labs/hivemesh) | Multi-Agent Workspace Orchestration Mesh | Decentralized event blackboard, causal task DAGs & autonomous swarm coordination for Claude/Cursor | [**Live Swarm Dashboard**](https://1nsharma-labs.github.io/hivemesh/) | **v1.0.0 (Live)** |
 | [**🛡️ DevDaemon**](https://github.com/1nsharma-labs/devdaemon) | Terminal Error Interceptor & Workspace Healer | Sub-2ms error classifier, instant zombie port killer & 1-line shell auto-fixes for Claude/Cursor | [**Live Terminal Healer**](https://1nsharma-labs.github.io/devdaemon/) | **v1.0.0 (Live)** |
 | [**🤖 DroidArmor**](https://github.com/1nsharma-labs/droidarmor) | Autonomous AI Mobile Agent & Fast ADB Automation | Natural language Android control, self-healing test runner, zero-latency ADB tap/type & MCP server | [**Live Phone Simulator**](https://1nsharma-labs.github.io/droidarmor/) | **v1.0.0 (Live)** |
