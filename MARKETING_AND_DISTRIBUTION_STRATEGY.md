@@ -8,6 +8,10 @@ This master playbook details the distribution tactics, community engagement blue
 
 | Tool | Primary ICP | Competitor Pricing Replaced | Free Alternative Hook |
 | :--- | :--- | :--- | :--- |
+| **DroidArmor** | Mobile Developers, QA, AI Agents | BrowserStack ($499/mo), Waldo ($799/mo) | Autonomous AI mobile agent & fast ADB self-healing test runner with MCP native server |
+| **SlashGraph** | AI Engineers, Cursor & Claude Users | CodeSee ($300/mo), Sourcegraph ($5,000/yr) | Zero-token AST routes & schema mapper + Urlmind web intelligence (< 600 tokens) |
+| **OmniMCP** | Autonomous AI Agents, Cursor Users | Claude Desktop Plugins ($50/mo) | Universal MCP Hub for Mobile ADB, Desktop telemetry, workspace tokens & SQLite memory |
+| **PromptArmor** | AI Developers, LLM Gateways | Lakera Guard ($250/mo), Promptfoo Enterprise | Sub-2ms local prompt injection & jailbreak firewall blocking DAN personas & steganography |
 | **TokenArmor** | AI Startups, LLM Developers | Portkey ($99/mo), Helicone ($50/mo) | Zero-dependency proxy with exact caching & local Ollama routing |
 | **KubePrune** | DevOps, SREs, Kubernetes Leads | Cast AI ($1,500/mo), Kubecost ($499/mo) | Instant CLI pod scanner & surgical patch generator |
 | **DriftArmor** | Cloud Architects, Terraform Users | Infracost ($250/mo), Firefly ($800/mo) | Zero-dependency pre-merge PR cost calculation & drift detector |
