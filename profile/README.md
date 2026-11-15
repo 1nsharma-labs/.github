@@ -17,6 +17,7 @@
 
 | Product | Description | Primary Value | Live Interactive Demo | Status |
 | :--- | :--- | :--- | :--- | :--- |
+| [**💼 Agency-OS**](https://github.com/1nsharma-labs/agency-os) | Open-Source Agency & Freelancer Business OS | Scope proposals, milestone Kanban, 18% GST tax invoices & direct UPI settlement | [**Live Client Portal**](https://1nsharma-labs.github.io/agency-os/) | **v1.0.0 (Live)** |
 | [**🍽️ Restaurant-OS**](https://github.com/1nsharma-labs/restaurant-os) | Open-Source Restaurant & Cloud Kitchen OS | 0% commission QR menu, live KDS, 5% GST billing & direct UPI settlement | [**Live Restaurant Demo**](https://1nsharma-labs.github.io/restaurant-os/) | **v1.0.0 (Live)** |
 | [**🌐 1nsharma-OS**](https://github.com/1nsharma-labs/1nsharma-os) | Universal Topic-to-App & Interactive Skill Engine | Compiles any subject into an interactive web simulator (.io) and mobile APK with zero-login labs | [**Live Universal Lab**](https://1nsharma-labs.github.io/1nsharma-os/) | **v1.0.0 (Live)** |
 | [**🇮🇳 AMIX**](https://github.com/1nsharma-labs/amix) | Sovereign Indian AI Architecture & 12-Agent Fleet | 5-stage progression from AI to Super Intelligence (SI) with smart routing, 12 cognitive nodes & Indic-Bench | [**Live Fleet Simulator**](https://1nsharma-labs.github.io/amix/) | **v1.0.0 (Live)** |
